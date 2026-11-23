@@ -1,0 +1,10 @@
+{
+  "version": "13.6.0.r1.3fd9530",
+  "commit": "3fd9530",
+  "versionCode": 1,
+  "changelog": "v2 增强：应用管理列出全部应用、双通道更新检查、3D 动态启动界面、命令中心保存/复用/参数记忆、设置与主题优化",
+  "download_url": "https://github.com/lyu323/aetherbridge",
+  "source_repo": "https://github.com/lyu323/aetherbridge",
+  "official_repo": "https://github.com/RikkaApps/Shizuku",
+  "note": "私有仓库，登录后到 Actions 或 dist 下载同证书 APK 覆盖安装"
+}
