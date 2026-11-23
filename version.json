@@ -1,6 +1,6 @@
 {
-  "version": "13.6.0.r1.1c9c870",
-  "commit": "1c9c870",
+  "version": "13.6.0.r1.381f935",
+  "commit": "381f935",
   "versionCode": 1,
   "changelog": "v2 增强：应用管理列出全部应用、双通道更新检查、3D 动态启动界面、命令中心保存/复用/参数记忆、设置与主题优化",
   "download_url": "https://github.com/lyu323/aetherbridge",
